@@ -415,7 +415,7 @@ contributed a card gets a random card back.
 * I hope to get you to commit to <u>   </u>. Can I?
 * I hope you don’t hold me to account for <u>   </u>. Do you?
 
-> POSSIBLE TOPICS
+> #### POSSIBLE TOPICS
 > 
 > Bring any of these topics into the conversation, or else invent your own:
 > 
@@ -518,7 +518,7 @@ If the instructions are ambiguous — when they specify a house, for example, bu
 two players are representing that same house — then it’s up to you to resolve
 the ambiguity, in any way that you prefer.
 
-> UNREPRESENTED HOUSES
+> #### UNREPRESENTED HOUSES
 > 
 > Don’t deal or keep cards for the houses that nobody’s playing. Don’t discard
 > cards from their hands. They don’t have any!
@@ -1322,20 +1322,20 @@ faith, retribution, or the spoils of war, as appropriate.
 * The Old Manor, the retreat and seat of power of House Sandoreale.
 * Holthen Keep, a powerful fortress warding the Seaward Coast.
 
-  ELABORATING & IMPROVISING
-  
-  When you choose what’s at risk, always be sure to say which House’s list you
-  chose from, so that player knows to pay attention.
-  
-  Elaborate further as you like. You can say that a company is on the march, for
-  instance, or that it’s taken position at <u>   </u>. If the combatants ask, you
-  can explain how a site has come under threat, or else you can ask the winner of
-  the bid to explain how their army came to threaten it.
-  
-  You also aren’t limited to the lists above. You can improvise new things to put
-  at risk, if you prefer. Draw on earlier events in play, and refer to the
-  descriptions of the Houses on pages 38–39 and to events in *Intrigue & Muster*
-  on pages 14–19.
+> #### ELABORATING & IMPROVISING
+> 
+> When you choose what’s at risk, always be sure to say which House’s list you
+> chose from, so that player knows to pay attention.
+> 
+> Elaborate further as you like. You can say that a company is on the march, for
+> instance, or that it’s taken position at <u>   </u>. If the combatants ask, you
+> can explain how a site has come under threat, or else you can ask the winner of
+> the bid to explain how their army came to threaten it.
+> 
+> You also aren’t limited to the lists above. You can improvise new things to put
+> at risk, if you prefer. Draw on earlier events in play, and refer to the
+> descriptions of the Houses on pages 38–39 and to events in *Intrigue & Muster*
+> on pages 14–19.
 
 ### ENDGAME: THE CORONATION
 
