@@ -3,7 +3,7 @@
 * D. VINCENT BAKER
 * MEGUEY BAKER
 
-## [Introduction] {{{
+## [Introduction]
 
 ### A ROLE-PLAYING GAME
 
@@ -18,9 +18,7 @@ adventure, romance, and war.
 
 You were born for this.
 
-}}}
-
-## HOW TO PLAY {{{
+## HOW TO PLAY
 
 You’ll need 3–5 players. Set aside at least an hour to play, more the more
 players you have. Each player needs their own copy of this playbook.
@@ -141,9 +139,7 @@ turns, simply always choose *Intrigue & Muster*.
 When you’ve been once around the table, from then on, any player can end play
 by choosing *Endgame: The Coronation*.
 
-}}}
-
-## INTRODUCING YOUR CHARACTERS {{{
+## INTRODUCING YOUR CHARACTERS
 
 #### YOU ARE A WARRIOR PRINCE OR A WARRIOR PRINCESS OF YOUR HOUSE.
 
@@ -189,11 +185,9 @@ you that you don’t want, have them choose a different one instead.
 *light-hearted*, *musical*, *patient*, *practical*, *resourceful*, *shy*,
 *steadfast*, *tall*, *thoughtful*, *widely-traveled*, *witty*.
 
-}}}
+## GAMES
 
-## GAMES {{{
-
-### AN ANIMATED DISAGREEMENT {{{
+### AN ANIMATED DISAGREEMENT
 
 #### SETUP
 
@@ -269,9 +263,7 @@ their highest card now. In a tie, both are considered to be losers.
   don’t answer. Instead, if they decline your challenge, yours is the better
   answer. If they accept it, theirs is.
 
-}}}
-
-### A CHASE {{{
+### A CHASE
 
 #### SETUP
 
@@ -358,9 +350,7 @@ choose one of the endings.
 * I’m exhausted and you overtake me.
 * You’ve proven yourself and I let you catch me.
 
-}}}
-
-### A CONVERSATION OVER FOOD {{{
+### A CONVERSATION OVER FOOD
 
 #### SETUP
 
@@ -425,27 +415,25 @@ contributed a card gets a random card back.
 * I hope to get you to commit to <u>   </u>. Can I?
 * I hope you don’t hold me to account for <u>   </u>. Do you?
 
-###### POSSIBLE TOPICS
+  POSSIBLE TOPICS
+  
+  Bring any of these topics into the conversation, or else invent your own:
+  
+  * The events of a recent play of *Intrigue & Muster* or any other game.
+  * The brutal and terrifying battle tactics of the Untamed Clans.
+  * House Antyre’s preposterous worship of backward, forgotten gods.
+  * The dangers of crowning a baby, even if it is the lawful Dillestone heir.
+  * The advisability of House Dillestone’s long reliance on House Oake.
+  * The influence of foreign money and mercenaries upon events.
+  * The alien and unfathomable customs of House Luneste.
+  * The virtues of honor, loyalty, a passionate heart, and a strong arm.
+  * House Oake’s long-held commitment to law, peace, and wise rule.
+  * Recent acts of treachery, murder, ambush, and assassination.
+  * The invalidity of House Sandoreale’s legal claim to the crown, but the
+    undeniability of its military power.
+  * Whether winter is coming.
 
-Bring any of these topics into the conversation, or else invent your own:
-
-* The events of a recent play of *Intrigue & Muster* or any other game.
-* The brutal and terrifying battle tactics of the Untamed Clans.
-* House Antyre’s preposterous worship of backward, forgotten gods.
-* The dangers of crowning a baby, even if it is the lawful Dillestone heir.
-* The advisability of House Dillestone’s long reliance on House Oake.
-* The influence of foreign money and mercenaries upon events.
-* The alien and unfathomable customs of House Luneste.
-* The virtues of honor, loyalty, a passionate heart, and a strong arm.
-* House Oake’s long-held commitment to law, peace, and wise rule.
-* Recent acts of treachery, murder, ambush, and assassination.
-* The invalidity of House Sandoreale’s legal claim to the crown, but the
-  undeniability of its military power.
-* Whether winter is coming.
-
-}}}
-
-### A DANCE {{{
+### A DANCE
 
 #### SETUP
 
@@ -510,9 +498,7 @@ random card back.
 * This moment in the dance allows me to step close to you and linger very near.
   Am I welcome?
 
-}}}
-
-### INTRIGUE & MUSTER {{{
+### INTRIGUE & MUSTER
 
 #### SETUP
 
@@ -532,15 +518,15 @@ If the instructions are ambiguous — when they specify a house, for example, bu
 two players are representing that same house — then it’s up to you to resolve
 the ambiguity, in any way that you prefer.
 
-###### UNREPRESENTED HOUSES
-
-Don’t deal or keep cards for the houses that nobody’s playing. Don’t discard
-cards from their hands. They don’t have any!
-
-If someone should pull a card from the hand of an unrepresented house and keep
-it, instead they just draw a card from the deck.
-
-Otherwise, you act for the unrepresented house yourself.
+  UNREPRESENTED HOUSES
+  
+  Don’t deal or keep cards for the houses that nobody’s playing. Don’t discard
+  cards from their hands. They don’t have any!
+  
+  If someone should pull a card from the hand of an unrepresented house and keep
+  it, instead they just draw a card from the deck.
+  
+  Otherwise, you act for the unrepresented house yourself.
 
 #### HOUSE ANTYRE, THE ANCIENT CROWN
 
@@ -690,9 +676,7 @@ Otherwise, you act for the unrepresented house yourself.
 * House Sandoreale ranges freely through the countryside, conscripting all they
   can. *Deal 1 card from the deck to House Sandoreale, face up.*
 
-}}}
-
-### MEETING SWORD TO SWORD {{{
+### MEETING SWORD TO SWORD
 
 #### SETUP
 
@@ -776,9 +760,7 @@ When combat ends, judge for yourself:
   you allow yourself to be driven? If you stand, we show our facedown cards. If
   yours is higher, you stand me off; if mine is, I kill you.
 
-}}}
-
-### A REUNION {{{
+### A REUNION
 
 #### SETUP
 
@@ -853,9 +835,7 @@ reunion ends.
 * Let’s continue with Stealing Time Together. Shall we?
 * Let’s continue with another game. Which do you suggest?
 
-}}}
-
-### STEALING TIME TOGETHER {{{
+### STEALING TIME TOGETHER
 
 #### SETUP
 
@@ -934,9 +914,7 @@ Diamonds are higher than Clubs are higher than Spades.*
 * You may not, and I withdraw to a more comfortable distance. 
 * You may not, and I break off and depart.
 
-}}}
-
-### TRIALS BY CONTEST {{{
+### TRIALS BY CONTEST
 
 #### SETUP
 
@@ -1101,9 +1079,7 @@ If they refuse to accede, though, they flip a card from the deck:
   choose whether they live or die in the ordeal, but either way, they must
   accede, and the trials end.
 
-}}}
-
-### WAR {{{
+### WAR
 
 #### SETUP
 
@@ -1346,24 +1322,22 @@ faith, retribution, or the spoils of war, as appropriate.
 * The Old Manor, the retreat and seat of power of House Sandoreale.
 * Holthen Keep, a powerful fortress warding the Seaward Coast.
 
-###### ELABORATING & IMPROVISING
+  ELABORATING & IMPROVISING
+  
+  When you choose what’s at risk, always be sure to say which House’s list you
+  chose from, so that player knows to pay attention.
+  
+  Elaborate further as you like. You can say that a company is on the march, for
+  instance, or that it’s taken position at <u>   </u>. If the combatants ask, you
+  can explain how a site has come under threat, or else you can ask the winner of
+  the bid to explain how their army came to threaten it.
+  
+  You also aren’t limited to the lists above. You can improvise new things to put
+  at risk, if you prefer. Draw on earlier events in play, and refer to the
+  descriptions of the Houses on pages 38–39 and to events in *Intrigue & Muster*
+  on pages 14–19.
 
-When you choose what’s at risk, always be sure to say which House’s list you
-chose from, so that player knows to pay attention.
-
-Elaborate further as you like. You can say that a company is on the march, for
-instance, or that it’s taken position at <u>   </u>. If the combatants ask, you
-can explain how a site has come under threat, or else you can ask the winner of
-the bid to explain how their army came to threaten it.
-
-You also aren’t limited to the lists above. You can improvise new things to put
-at risk, if you prefer. Draw on earlier events in play, and refer to the
-descriptions of the Houses on pages 38–39 and to events in *Intrigue & Muster*
-on pages 14–19.
-
-}}}
-
-### ENDGAME: THE CORONATION {{{
+### ENDGAME: THE CORONATION
 
 #### SETUP
 
@@ -1453,15 +1427,12 @@ Take turns around, one last time. On your turn, answer this question:
 
 ## THE END
 
-}}}
+## THE NOBLE HOUSES
 
-}}}
+#### HOUSE ANTYRE, THE ANCIENT CROWN
 
-## THE NOBLE HOUSES {{{
-
-HOUSE ANTYRE, THE ANCIENT CROWN House Antyre leads the “Untamed Clans,” the
-ancient families who have resisted every invader’s effort to subjugate or
-conquer them.
+House Antyre leads the “Untamed Clans,” the ancient families who have resisted
+every invader’s effort to subjugate or conquer them.
 
 * Your people used to rule Banteave, before it was even called Banteave, back
   to the dawn of time. The most ancient laws and the most ancient gods support
@@ -1473,9 +1444,10 @@ conquer them.
   an unslakeable blood-thirst, and an eagerness to answer every insult, no
   matter how slight, with ready violence.
 
-HOUSE DILLESTONE, THE ROYAL HOUSE You’re a prince or princess of the ruling
-house of Banteave. You’re a sibling or cousin of the infant heir. Your family
-has ruled for three generations.
+#### HOUSE DILLESTONE, THE ROYAL HOUSE
+
+You’re a prince or princess of the ruling house of Banteave. You’re a sibling
+or cousin of the infant heir. Your family has ruled for three generations.
 
 * If the infant heir is crowned, you’re in position to serve as regent until
   his majority, and then it will be a fourth generation of Dillestone rule.
@@ -1484,8 +1456,10 @@ has ruled for three generations.
 * House Dillestone holds you to high formal standards of honor, grace,
   chivalry, and faith.
 
-HOUSE LUNESTE, THE FOREIGN POWER You’re a prince or princess of the royal house
-of Resshe, an overseas kingdom with a strong claim to the throne of Banteave.
+#### HOUSE LUNESTE, THE FOREIGN POWER
+
+You’re a prince or princess of the royal house of Resshe, an overseas kingdom
+with a strong claim to the throne of Banteave.
 
 * Your claim to the throne is legal, not traditional. To ascend, you’ll need to
   assert your claim with wealth, with force, and by winning over your most
@@ -1497,9 +1471,10 @@ of Resshe, an overseas kingdom with a strong claim to the throne of Banteave.
   as peasant, and to remain true to Resshe in language, culture, worship, and
   sentiment.
 
-HOUSE OAKE, THE LOYAL RETAINERS You’re a prince or princess of a house of
-bodyguards, knights, and counselors steadfast to three generations of
-Dillestone rule.
+#### HOUSE OAKE, THE LOYAL RETAINERS
+
+You’re a prince or princess of a house of bodyguards, knights, and counselors
+steadfast to three generations of Dillestone rule.
 
 * Your claim to the throne rivals that of the infant Dillestone heir, but it’s
   a controversial matter within your house. If you’re crowned, for the first
@@ -1511,9 +1486,11 @@ Dillestone rule.
   nobility of purpose. It hates cowardice, inconstancy, and deceit equally, as
   the worst sins of human capability.
 
-HOUSE SANDOREALE, THE USURPERS You’re a prince or princess of the second great
-house of Banteave, of high noble name and royal lineage. Four generations ago,
-your house wore the crown, and House Dillestone must submit to you.
+#### HOUSE SANDOREALE, THE USURPERS
+
+You’re a prince or princess of the second great house of Banteave, of high
+noble name and royal lineage. Four generations ago, your house wore the crown,
+and House Dillestone must submit to you.
 
 * With the Dillestone succession in turmoil, you see the opportunity to seize
   the crown. If you’re crowned, though, you might plunge Banteave into civil
@@ -1526,15 +1503,10 @@ your house wore the crown, and House Dillestone must submit to you.
   to rally around the house’s cause, and commit yourself passionately to
   battle.
 
-}}}
-
-###### [Footnote] {{{
-
-Real medieval European history is full of people of all different genders,
-sexualities, races, abilities, and religions, in positions of power from the
-lowest levels to the highest. While this game is ahistorical, it still can and
-should reflect the diversity of history. As you create and play your character,
-look beyond the stock figure of the whitewashed medieval “crown prince.”
-
-}}}
+  Real medieval European history is full of people of all different genders,
+  sexualities, races, abilities, and religions, in positions of power from the
+  lowest levels to the highest. While this game is ahistorical, it still can
+  and should reflect the diversity of history. As you create and play your
+  character, look beyond the stock figure of the whitewashed medieval “crown
+  prince.”
 
