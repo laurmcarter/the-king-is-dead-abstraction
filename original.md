@@ -415,23 +415,23 @@ contributed a card gets a random card back.
 * I hope to get you to commit to <u>   </u>. Can I?
 * I hope you don’t hold me to account for <u>   </u>. Do you?
 
-  POSSIBLE TOPICS
-  
-  Bring any of these topics into the conversation, or else invent your own:
-  
-  * The events of a recent play of *Intrigue & Muster* or any other game.
-  * The brutal and terrifying battle tactics of the Untamed Clans.
-  * House Antyre’s preposterous worship of backward, forgotten gods.
-  * The dangers of crowning a baby, even if it is the lawful Dillestone heir.
-  * The advisability of House Dillestone’s long reliance on House Oake.
-  * The influence of foreign money and mercenaries upon events.
-  * The alien and unfathomable customs of House Luneste.
-  * The virtues of honor, loyalty, a passionate heart, and a strong arm.
-  * House Oake’s long-held commitment to law, peace, and wise rule.
-  * Recent acts of treachery, murder, ambush, and assassination.
-  * The invalidity of House Sandoreale’s legal claim to the crown, but the
-    undeniability of its military power.
-  * Whether winter is coming.
+> POSSIBLE TOPICS
+> 
+> Bring any of these topics into the conversation, or else invent your own:
+> 
+> * The events of a recent play of *Intrigue & Muster* or any other game.
+> * The brutal and terrifying battle tactics of the Untamed Clans.
+> * House Antyre’s preposterous worship of backward, forgotten gods.
+> * The dangers of crowning a baby, even if it is the lawful Dillestone heir.
+> * The advisability of House Dillestone’s long reliance on House Oake.
+> * The influence of foreign money and mercenaries upon events.
+> * The alien and unfathomable customs of House Luneste.
+> * The virtues of honor, loyalty, a passionate heart, and a strong arm.
+> * House Oake’s long-held commitment to law, peace, and wise rule.
+> * Recent acts of treachery, murder, ambush, and assassination.
+> * The invalidity of House Sandoreale’s legal claim to the crown, but the
+>   undeniability of its military power.
+> * Whether winter is coming.
 
 ### A DANCE
 
@@ -518,15 +518,15 @@ If the instructions are ambiguous — when they specify a house, for example, bu
 two players are representing that same house — then it’s up to you to resolve
 the ambiguity, in any way that you prefer.
 
-  UNREPRESENTED HOUSES
-  
-  Don’t deal or keep cards for the houses that nobody’s playing. Don’t discard
-  cards from their hands. They don’t have any!
-  
-  If someone should pull a card from the hand of an unrepresented house and keep
-  it, instead they just draw a card from the deck.
-  
-  Otherwise, you act for the unrepresented house yourself.
+> UNREPRESENTED HOUSES
+> 
+> Don’t deal or keep cards for the houses that nobody’s playing. Don’t discard
+> cards from their hands. They don’t have any!
+> 
+> If someone should pull a card from the hand of an unrepresented house and keep
+> it, instead they just draw a card from the deck.
+> 
+> Otherwise, you act for the unrepresented house yourself.
 
 #### HOUSE ANTYRE, THE ANCIENT CROWN
 
@@ -1503,10 +1503,10 @@ and House Dillestone must submit to you.
   to rally around the house’s cause, and commit yourself passionately to
   battle.
 
-  Real medieval European history is full of people of all different genders,
-  sexualities, races, abilities, and religions, in positions of power from the
-  lowest levels to the highest. While this game is ahistorical, it still can
-  and should reflect the diversity of history. As you create and play your
-  character, look beyond the stock figure of the whitewashed medieval “crown
-  prince.”
+> Real medieval European history is full of people of all different genders,
+> sexualities, races, abilities, and religions, in positions of power from the
+> lowest levels to the highest. While this game is ahistorical, it still can
+> and should reflect the diversity of history. As you create and play your
+> character, look beyond the stock figure of the whitewashed medieval “crown
+> prince.”
 
